@@ -1,0 +1,106 @@
+Sl.No,Year,Name of State/UT,Stat_Code,Damages to Crops - Value (Rs. Crore),Damage to Houses - Value (Rs. Crore),Damage to Public Utilities (Rs. Crore),"Total Damages Crops,Houses & Public Utilities (Rs. Crore)",Total Damages
+1,2016,Andhra Pradesh,28,0,0,0,0,0 Loses
+2,2016,Arunachal Pradesh,12,0,0,0,0,0 Loses
+3,2016,Assam,18,0,0,17.89,17.89,0-100
+4,2016,Bihar,10,443.53,44.262,40.97,528.762,500-999
+5,2016,Chattisgarh,22,0,0,0,0,0 Loses
+6,2016,Goa,30,0,0,0,0,0 Loses
+7,2016,Gujarat,24,0,0,0,0,0 Loses
+8,2016,Haryana,6,518.235,4.212,0,522.447,500-999
+9,2016,Himachal Pradesh,2,26.83,15.27,3.02,45.12,0-100
+10,2016,Jammu & Kashmir,1,0,0,0,0,0 Loses
+11,2016,Jharkhand,20,0,0,0,0,0 Loses
+12,2016,Karnataka,29,1771.26,5.37,236.18,2012.81,2000-2999
+13,2016,Kerala,32,42.68,0,0,42.68,0-100
+14,2016,Madhya Pradesh,23,0,0,207.86,207.86,200-399
+15,2016,Maharashtra,27,0,0,0,0,0 Loses
+16,2016,Manipur,14,0,0,0,0,0 Loses
+17,2016,Meghalaya,17,17.73,15.477,29.322,62.529,0-100
+18,2016,Mizoram,15,0,0,1.79,1.79,0-100
+19,2016,Nagaland,13,0,0,0,0,0 Loses
+20,2016,Odisha,21,0,0.05,31.245,31.295,0-100
+21,2016,Punjab,3,1.14,0.025,0.495,1.66,0-100
+22,2016,Rajasthan,8,1014.221,20.378,164.514,1199.113,1000-1999
+23,2016,Sikkim,11,0,0,0,0,0 Loses
+24,2016,Tamilnadu,33,0,0,0,0,0 Loses
+25,2016,Tripura,16,89.122,0.235,0,89.357,0-100
+26,2016,Uttar Pradesh,9,123.776,0,0,123.776,100-199
+27,2016,Uttarakhand,5,4.2,9.397,774.64,788.237,500-999
+28,2016,West Bengal,19,0,0,0,0,0 Loses
+29,2016,A & N Island,35,0,0,0,0,0 Loses
+30,2016,Chandigarh,4,Nil,Nil,Nil,Nil,0 Loses
+31,2016,D & N Haveli,26,Nil,Nil,Nil,Nil,0 Loses
+32,2016,Daman & Diu,25,0,0,0,0,0 Loses
+33,2016,Delhi,7,0,0,0,0,0 Loses
+34,2016,Lakshadweep,31,0,0,0,0,0 Loses
+35,2016,Puduchcherry,34,0,0,0,0,0 Loses
+1,2017,Andhra Pradesh,28,0,0,0,0,0 Loses
+2,2017,Arunachal Pradesh,12,97.54,5.55,1471.59,1574.68,1000-1999
+3,2017,Assam,18,0,0,0,0,0 Loses
+4,2017,Bihar,10,0,0,0,0,0 Loses
+5,2017,Chattisgarh,22,0,0,0,0,0 Loses
+6,2017,Goa,30,0,0,0,0,0 Loses
+7,2017,Gujarat,24,8.6,15.74,3531.53,3555.87,3000-3999
+8,2017,Haryana,6,17.96,0.047,0,18.007,0-100
+9,2017,Himachal Pradesh,2,34.607,13.3,3.46,51.367,0-100
+10,2017,Jammu & Kashmir,1,0,0,0,0,0 Loses
+11,2017,Jharkhand,20,0,0,0,0,0 Loses
+12,2017,Karnataka,29,0,0,0,0,0 Loses
+13,2017,Kerala,32,0,NA,0,0,0 Loses
+14,2017,Madhya Pradesh,23,0,0,0,0,0 Loses
+15,2017,Maharashtra,27,0,0,0,0,0 Loses
+16,2017,Manipur,14,0,0,0,0,0 Loses
+17,2017,Meghalaya,17,0,0.14,0,0.14,0-100
+18,2017,Mizoram,15,0,0,0,0,0 Loses
+19,2017,Nagaland,13,9.3,18.2,524.09,551.59,500-999
+20,2017,Odisha,21,0,0,334.315,334.315,200-399
+21,2017,Punjab,3,18.23,0.41,0,18.64,0-100
+22,2017,Rajasthan,8,1333.221,30.45,513.186,1876.857,1000-1999
+23,2017,Sikkim,11,5,9.27,231.17,245.44,200-399
+24,2017,Tamilnadu,33,0,0,0,0,0 Loses
+25,2017,Tripura,16,14.387,20.549,97.888,132.824,100-199
+26,2017,Uttar Pradesh,9,308.053,0,0,308.053,200-399
+27,2017,Uttarakhand,5,0,0,0,0,0 Loses
+28,2017,West Bengal,19,6914.5,9158.28,1655.16,17727.94,"10,000 & Above"
+29,2017,A & N Island,35,0,0,0,0,0 Loses
+30,2017,Chandigarh,4,0,0,0,0,0 Loses
+31,2017,D & N Haveli,26,0,0,0.1,0.1,0-100
+32,2017,Daman & Diu,25,0,0,0,0,0 Loses
+33,2017,Delhi,7,0,0,0,0,0 Loses
+34,2017,Lakshadweep,31,Nil,Nil,Nil,Nil,0 Loses
+35,2017,Puduchcherry,34,0,0,0,0,0 Loses
+1,2018,Andhra Pradesh,28,0,0,0,0,0 Loses
+2,2018,Arunachal Pradesh,12,462.915,589.949,86096.328,87149.192,"10,000 & Above"
+3,2018,Assam,18,0,0,0,0,0 Loses
+4,2018,Bihar,10,0,0,0,0,0 Loses
+5,2018,Chattisgarh,22,0,0,0,0,0 Loses
+6,2018,Goa,30,0,0,0,0,0 Loses
+7,2018,Gujarat,24,0,0,57,0,0 Loses
+8,2018,Haryana,6,0,0,0,0,0 Loses
+9,2018,Himachal Pradesh,2,12.57,43.03,10.3,65.9,0-100
+10,2018,Jammu & Kashmir,1,0,0,0,0,0 Loses
+11,2018,Jharkhand,20,0,0,0.2,0.2,0-100
+12,2018,Karnataka,29,2220.7,367.51,2032.57,4620.78,4000-4999
+13,2018,Kerala,32,168.48,998.131,2154.149,3320.76,3000-3999
+14,2018,Madhya Pradesh,23,0,0,0,0,0 Loses
+15,2018,Maharashtra,27,0,0,0,0,0 Loses
+16,2018,Manipur,14,0,0,0,0,0 Loses
+17,2018,Meghalaya,17,0.038,0.029,0,0,0 Loses
+18,2018,Mizoram,15,0,0,0,0,0 Loses
+19,2018,Nagaland,13,0,0,0,0,0 Loses
+20,2018,Odisha,21,0,0,0,0,0 Loses
+21,2018,Punjab,3,0,0,0,0,0 Loses
+22,2018,Rajasthan,8,2.2,2.16,27.368,31.728,0-100
+23,2018,Sikkim,11,0,0,0,0,0 Loses
+24,2018,Tamilnadu,33,0,0,0,0,0 Loses
+25,2018,Tripura,16,0,0,0,0,0 Loses
+26,2018,Uttar Pradesh,9,230.364,13.724,303.336,547.423,500-999
+27,2018,Uttarakhand,5,0,0,0,0,0 Loses
+28,2018,West Bengal,19,0,0,0,0,0 Loses
+29,2018,A & N Island,35,0,0,0,0,0 Loses
+30,2018,Chandigarh,4,0,0,0,0,0 Loses
+31,2018,D & N Haveli,26,0,0,0,0,0 Loses
+32,2018,Daman & Diu,25,0,0,0,0,0 Loses
+33,2018,Delhi,7,0,0,0,0,0 Loses
+34,2018,Lakshadweep,31,0,0,0,0,0 Loses
+35,2018,Puduchcherry,34,0,0,0,0,0 Loses
